@@ -1,5 +1,5 @@
 ---
-name: review
+name: code-review
 description: Perform a full code review using caveman, grill-me, QA and architecture checks
 agents:
   - cursor
