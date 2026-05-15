@@ -1,4 +1,4 @@
-# Eden Cursor skills
+# Cursor skills
 
 Agent skills. Each project still needs `.cursor/CONTEXT.md` and `.cursor/STRUCTURE.md` — skills read those for gates and conventions.
 
@@ -9,7 +9,7 @@ npx skills@latest add mattpocock/skills -a cursor --global
 npx skills@latest add JuliusBrussee/caveman -a cursor --global
 ```
 
-## Install Eden skills
+## Install skills
 
 ```bash
 npx skills@latest add madelinben/skills -a cursor --global --skill '*' -y
