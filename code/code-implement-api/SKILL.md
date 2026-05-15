@@ -1,6 +1,6 @@
 ---
 name: code-implement-api
-description: Implement or extend typed HTTP API in this repo: validation, authz, stable contracts.
+description: "Implement or extend typed HTTP API in this repo: validation, authz, stable contracts."
 agents:
   - cursor
 ---

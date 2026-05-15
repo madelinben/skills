@@ -1,6 +1,6 @@
 ---
 name: test-flow
-description: Run manual plan in browser: hypothesis row per step, then reality vs expected.
+description: "Run manual plan in browser: hypothesis row per step, then reality vs expected."
 agents:
   - cursor
 ---

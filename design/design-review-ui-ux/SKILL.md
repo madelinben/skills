@@ -1,6 +1,6 @@
 ---
 name: design-review-ui-ux
-description: UI/UX pass: hierarchy, spacing scale, tokens, empty vs error, density per product type.
+description: "UI/UX pass: hierarchy, spacing scale, tokens, empty vs error, density per product type."
 agents:
   - cursor
 ---

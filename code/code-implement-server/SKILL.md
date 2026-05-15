@@ -1,6 +1,6 @@
 ---
 name: code-implement-server
-description: Implement or extend server-side code (PHP, etc.): layers, validation, DB, compat.
+description: "Implement or extend server-side code (PHP, etc.): layers, validation, DB, compat."
 agents:
   - cursor
 ---

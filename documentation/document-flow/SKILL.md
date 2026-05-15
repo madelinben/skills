@@ -1,6 +1,6 @@
 ---
 name: document-flow
-description: Document control flow: sequence or activity mermaid from code + user flow.
+description: "Document control flow: sequence or activity mermaid from code + user flow."
 agents:
   - cursor
 ---

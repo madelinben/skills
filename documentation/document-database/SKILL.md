@@ -1,6 +1,6 @@
 ---
 name: document-database
-description: Trace code to tables/joins; output ER mermaid; DB truth only via user-approved commands in STRUCTURE.
+description: "Trace code to tables/joins; output ER mermaid; DB truth only via user-approved commands in STRUCTURE."
 agents:
   - cursor
 ---

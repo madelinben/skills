@@ -1,6 +1,6 @@
 ---
 name: document-current-state
-description: Business-facing constraints page for PM/sales; optional vault MCP if configured.
+description: "Business-facing constraints page for PM/sales; optional vault MCP if configured."
 agents:
   - cursor
 ---

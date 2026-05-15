@@ -1,6 +1,6 @@
 ---
 name: test-ui-ux
-description: Manual responsive / theme / overflow checklist after test-plan output or feature list.
+description: "Manual responsive / theme / overflow checklist after test-plan output or feature list."
 agents:
   - cursor
 ---

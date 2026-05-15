@@ -1,6 +1,6 @@
 ---
 name: design-review-sync
-description: Audit design tokens vs design tool (Figma etc.): diff table only; no auto-write.
+description: "Audit design tokens vs design tool (Figma etc.): diff table only; no auto-write."
 agents:
   - cursor
 ---

@@ -1,6 +1,6 @@
 ---
 name: code-implement-client
-description: Implement or extend UI layer: components, state, styling per repo STRUCTURE.
+description: "Implement or extend UI layer: components, state, styling per repo STRUCTURE."
 agents:
   - cursor
 ---

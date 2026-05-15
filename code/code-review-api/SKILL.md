@@ -1,6 +1,6 @@
 ---
 name: code-review-api
-description: Adversarial HTTP API review: authz, schemas, versioning, errors.
+description: "Adversarial HTTP API review: authz, schemas, versioning, errors."
 agents:
   - cursor
 ---

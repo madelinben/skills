@@ -1,6 +1,6 @@
 ---
 name: code-review-server
-description: Adversarial server-side review: security, data integrity, compat, perf.
+description: "Adversarial server-side review: security, data integrity, compat, perf."
 agents:
   - cursor
 ---

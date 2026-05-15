@@ -1,6 +1,6 @@
 ---
 name: implement
-description: Orchestrate a change: bind repo STRUCTURE, grill-me, delegate stack skill, run STRUCTURE gates, QA handoff.
+description: "Orchestrate a change: bind repo STRUCTURE, grill-me, delegate stack skill, run STRUCTURE gates, QA handoff."
 agents:
   - cursor
 ---

@@ -1,6 +1,6 @@
 ---
 name: code-review-client
-description: Adversarial UI review: patterns, edge cases, a11y, perf, smallest diff.
+description: "Adversarial UI review: patterns, edge cases, a11y, perf, smallest diff."
 agents:
   - cursor
 ---

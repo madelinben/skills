@@ -1,6 +1,6 @@
 ---
 name: design-review-accessibility
-description: A11y review: keyboard, semantics, contrast, tooling when available.
+description: "A11y review: keyboard, semantics, contrast, tooling when available."
 agents:
   - cursor
 ---

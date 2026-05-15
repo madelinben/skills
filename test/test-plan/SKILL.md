@@ -1,6 +1,6 @@
 ---
 name: test-plan
-description: Produce markdown manual QA plan: matrix, edge cases, sign-off slots.
+description: "Produce markdown manual QA plan: matrix, edge cases, sign-off slots."
 agents:
   - cursor
 ---
